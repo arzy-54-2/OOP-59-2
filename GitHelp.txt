@@ -17,3 +17,7 @@ git push origin master     | Команда для отправки измене
 
 git branch                 | Просмотр веток
 git branch main            | Create branch
+git switch branch_name   | Переключение на указанную ветку
+git checkout branch_name   | Переключение на указанную ветку
+git switch -c branch_name   | Создание и переключение на указанную ветку
+git checkout -b branch_name | Создание и переключение на указанную ветку
