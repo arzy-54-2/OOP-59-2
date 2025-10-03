@@ -21,3 +21,7 @@ git switch branch_name   | Переключение на указанную ве
 git checkout branch_name   | Переключение на указанную ветку
 git switch -c branch_name   | Создание и переключение на указанную ветку
 git checkout -b branch_name | Создание и переключение на указанную ветку
+
+fewfewfcvew
+wedvcferdverwgf
+cewfcqwdcxwq
