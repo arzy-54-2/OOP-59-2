@@ -21,7 +21,17 @@ git switch branch_name   | Переключение на указанную ве
 git checkout branch_name   | Переключение на указанную ветку
 git switch -c branch_name   | Создание и переключение на указанную ветку
 git checkout -b branch_name | Создание и переключение на указанную ветку
+git restore file_name       | Удаление ваших изменений до последнего коммита
+git reset file_name         | Удаление файла из буфера обмена
+git reset --mixed HEAD~1    | Удаление последнего коммита
+git merge branch_name       |  стягивание изменений из указанной ветки
 
-fewfewfcvew
-wedvcferdverwgf
-cewfcqwdcxwq
+production
+stage
+develop
+
+feat/register
+update/register
+delete/register
+fix/register
+HostFix/register
