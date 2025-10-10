@@ -15,3 +15,13 @@ print(Back.GREEN + 'and with a green background')
 print(Style.DIM + 'and in dim text')
 print(Style.RESET_ALL)
 print('back to normal now')
+
+
+# from django.db import models
+#
+#
+# class Test(models.Model):
+#     test = models.CharField(help_text="text")
+
+
+

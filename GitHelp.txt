@@ -44,3 +44,9 @@ python3 -m venv venv_name
 
 source venv/bin/activate      - Для Линукс и Мак
 venv\Scripts\activate         - Для Винды
+
+
+cd ../  | Переход назад
+cd name_dir  | Переход в указанную директорию
+
+
