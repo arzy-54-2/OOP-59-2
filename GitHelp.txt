@@ -35,3 +35,12 @@ update/register
 delete/register
 fix/register
 HostFix/register
+
+
+py -m venv venv_name
+python -m venv venv_name      Для создания venv
+python3 -m venv venv_name
+
+
+source venv/bin/activate      - Для Линукс и Мак
+venv\Scripts\activate         - Для Винды
