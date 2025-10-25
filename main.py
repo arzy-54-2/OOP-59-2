@@ -1,27 +1,11 @@
-# from my_package import add, minse
-# import random
-#
-# print(add(123,321))
-# print(minse(4444,321))
+d = [123, 12]
+a = [123, 12]
+def test():
+    a = 123
+    b = "test"
+    c = []
 
+test()
 
-
-
-from colorama import Fore, Back, Style
-
-
-print(Fore.RED + 'some red text')
-print(Back.GREEN + 'and with a green background')
-print(Style.DIM + 'and in dim text')
-print(Style.RESET_ALL)
-print('back to normal now')
-
-
-# from django.db import models
-#
-#
-# class Test(models.Model):
-#     test = models.CharField(help_text="text")
-
-
-
+print(id(d))
+print(id(a))
